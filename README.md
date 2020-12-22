@@ -4,16 +4,16 @@ It is created with the MongoDB, Express, React, Node.js (MERN) stack.
 
 ## Demonstration
 * **Create designee:** Create a designee to take care of tasks.
-![](frontend/demo/create-designee.png)
+![](demo/create-designee.png)
 
 * **Designees:** Show current designees created by the user.
-![](frontend/demo/designees.png)
+![](demo/designees.png)
 
 * **Create tasks:** Create a Task and appoint someone to it. 
-![](frontend/demo/create-new-task.png)
+![](demo/create-new-task.png)
 
 * **Task Manager:** Show current Tasks information.
-![](frontend/demo/tasks.png)
+![](demo/tasks.png)
 
 ## Directory Structure
 
