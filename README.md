@@ -2,6 +2,8 @@
 This is a single-page application that can help people manage tasks. 
 It is created with the MongoDB, Express, React, Node.js (MERN) stack.
 
+[Demo](https://guarded-mesa-78058.herokuapp.com/)
+
 ## Demonstration
 * **Create designee:** Create a designee to take care of tasks.
 ![](demo/create-designee.png)
