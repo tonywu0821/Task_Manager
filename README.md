@@ -1,10 +1,11 @@
 # Task_Manager
 This is a single-page application that can help people manage tasks. 
-It is created with the MongoDB, Express, React, Node.js (MERN) stack.
-
-[Demo](https://guarded-mesa-78058.herokuapp.com/)
+It is created with the MongoDB, Express.js, React.js, Node.js (MERN) stack.
 
 ## Demonstration
+[Demo-Heroku](https://guarded-mesa-78058.herokuapp.com/)
+[Demo-AWS](http://3.19.53.239/)
+
 * **Create designee:** Create a designee to take care of tasks.
 ![](demo/create-designee.png)
 
